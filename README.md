@@ -1,4 +1,4 @@
-zim-balancer
+zim-Balancer
 ============
 
 Базирующиеся на Zim сайты
