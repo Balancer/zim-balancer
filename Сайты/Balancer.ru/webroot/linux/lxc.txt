@@ -41,3 +41,6 @@ sudo locale-gen ru_RU.UTF-8
 LANG=ru_RU.UTF-8
 LC_ALL=ru_RU.UTF-8
 
+echo LANG=ru_RU.UTF-8 >> /etc/environment
+echo LC_ALL=ru_RU.UTF-8 >> /etc/environment
+
