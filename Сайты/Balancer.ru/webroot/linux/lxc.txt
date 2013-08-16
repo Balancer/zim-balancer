@@ -5,6 +5,8 @@ Creation-Date: 2013-08-17T03:44:01+04:00
 ====== LXC ======
 Created Суббота 17 Август 2013
 
+@
+
 lxc-create -n pics -t ubuntu -B lvm --lvname lxc-pics --vgname apvg --fstype ext4 --fssize 10G -- -r quantal
 
 # ------------------------------
@@ -21,4 +23,5 @@ lxc.network.veth.pair = hosting.lxc
 /var/lib/lxc/common/var/cache/apt-lts/apt-file  var/cache/apt/apt-file  none bind 0 0
 /var/lib/lxc/common/var/cache/apt-lts/archives  var/cache/apt/archives  none bind 0 0
 
-u
+ubuntu/ubuntu
+
