@@ -20,3 +20,5 @@ lxc.network.veth.pair = hosting.lxc
 # — создать каталоги!
 /var/lib/lxc/common/var/cache/apt-lts/apt-file  var/cache/apt/apt-file  none bind 0 0
 /var/lib/lxc/common/var/cache/apt-lts/archives  var/cache/apt/archives  none bind 0 0
+
+u
