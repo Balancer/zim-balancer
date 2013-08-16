@@ -5,7 +5,7 @@ Creation-Date: 2013-08-17T03:44:01+04:00
 ====== LXC ======
 Created Суббота 17 Август 2013
 
-@hidden @work
+@hidden @underconstructi
 
 lxc-create -n pics -t ubuntu -B lvm --lvname lxc-pics --vgname apvg --fstype ext4 --fssize 10G -- -r quantal
 
