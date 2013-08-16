@@ -16,3 +16,6 @@ lxc.network.ipv4 = 10.0.2.101/8
 lxc.network.ipv4.gateway = 10.0.1.1
 lxc.network.veth.pair = hosting.lxc
 # ------------------------------
+
+/var/lib/lxc/common/var/cache/apt-lts/apt-file  var/cache/apt/apt-file  none bind 0 0
+/var/lib/lxc/common/var/cache/apt-lts/archives  var/cache/apt/archives  none bind 0 0
