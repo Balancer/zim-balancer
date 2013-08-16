@@ -7,3 +7,12 @@ Created Суббота 17 Август 2013
 
 lxc-create -n pics -t ubuntu -B lvm --lvname lxc-pics --vgname apvg --fstype ext4 --fssize 10G -- -r quantal
 
+# ------------------------------
+# networking
+lxc.network.type = veth
+lxc.network.flags = up
+lxc.network.link = lxcbr0
+lxc.network.ipv4 = 10.0.2.101/8
+lxc.network.ipv4.gateway = 10.0.1.1
+lxc.network.veth.pair = hosting.lxc
+# ------------------------------
