@@ -34,3 +34,5 @@ lxc.network.veth.pair = hosting.lxc
 ''sudo apt-get update && sudo apt-get upgrade''
 
 ''# apt-get install nginx php5-fpm php5-xcache sshfs afuse''
+
+echo ru_RU.UTF-8 UTF-8 >> [[/var/lib/locales/supported.d/ru]]
