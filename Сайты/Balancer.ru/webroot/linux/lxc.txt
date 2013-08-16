@@ -44,3 +44,8 @@ LC_ALL=ru_RU.UTF-8
 echo LANG=ru_RU.UTF-8 >> /etc/environment
 echo LC_ALL=ru_RU.UTF-8 >> /etc/environment
 
+# Установить без перезагрузки:
+export LANG=ru_RU.UTF-8
+export LC_ALL=ru_RU.UTF-8
+
+
