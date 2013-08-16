@@ -32,3 +32,5 @@ lxc.network.veth.pair = hosting.lxc
 ubuntu/ubuntu
 
 sudo apt-get update && sudo apt-get upgrade
+
+# apt-get install nginx php5-fpm php5-xcache sshfs afuse
