@@ -52,8 +52,11 @@ export LC_ALL=ru_RU.UTF-8
 # [[/home/ubuntu/.bashrc]] ~46 строка
 force_color_prompt=yes
 
+'''
 PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
 PS1='${debian_chroot:+($debian_chroot)}\[\033[01;31m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+'''
+
 
 // тут — sudoers.conf
 
