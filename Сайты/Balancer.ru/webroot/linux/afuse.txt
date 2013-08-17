@@ -12,3 +12,4 @@ $ sudo chmod a+r [[/etc/fuse.conf]]
 
 sudo mknod /dev/fuse c 10 229
 sudo chown root:fuse [[/dev/fuse]]
+sudo chmod g+w /dev/fuse
