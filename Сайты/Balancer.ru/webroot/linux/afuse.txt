@@ -5,6 +5,8 @@ Creation-Date: 2013-08-17T04:05:24+04:00
 ====== afuse ======
 Created Суббота 17 Август 2013
 
+@hidden @underconstruction
+
 $ sudo chmod a+r [[/etc/fuse.conf]]
 
 #user_allow_other
