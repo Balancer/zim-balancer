@@ -7,3 +7,5 @@ Created Суббота 17 Август 2013
 
 $ sudo chmod a+r [[/etc/fuse.conf]]
 
+#user_allow_other
+
