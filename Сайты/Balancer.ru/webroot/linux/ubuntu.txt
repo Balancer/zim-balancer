@@ -5,5 +5,6 @@ Creation-Date: 2013-08-17T04:41:07+04:00
 ====== ubuntu ======
 Created Суббота 17 Август 2013
 
+@hidden @underconstruction
 
 $ sudo apt-get install command-not-found
