@@ -7,4 +7,4 @@ Created Суббота 17 Август 2013
 
 @hidden @underconstruction
 
-useradd -d /var/www/sologubov.ru -g httpd -s /usr/sbin/nologin sologubov
+useradd -d /var/www/sologubov.ru -g httpd -s /usr/sbin/nologin -u sologubov
