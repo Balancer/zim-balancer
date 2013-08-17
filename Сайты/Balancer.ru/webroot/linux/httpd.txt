@@ -5,3 +5,6 @@ Creation-Date: 2013-08-17T04:36:19+04:00
 ====== httpd ======
 Created Суббота 17 Август 2013
 
+@hidd
+
+useradd -d /var/www/sologubov.ru -g httpd -s /usr/sbin/nologin sologubov
