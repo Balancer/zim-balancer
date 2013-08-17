@@ -9,3 +9,5 @@ $ sudo chmod a+r [[/etc/fuse.conf]]
 
 #user_allow_other
 
+
+sudo mknod /dev/fuse c 10 229
