@@ -17,4 +17,4 @@ apt-get install sparkleshare[-unstable]
 ?конфигурируем
 
 — Создаём подкаталог
- - 
+— git init + .spa
