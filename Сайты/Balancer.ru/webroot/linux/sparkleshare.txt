@@ -7,7 +7,8 @@ Created Суббота 07 Сентябрь 2013
 
 Подъём безголового сервера
 
-apt-get install sparkleshare[-unstable]
+apt-get install xvfb
+запуск xvf
 apt-get install sparkleshare[-unstable]
 
 Достаём ключ
