@@ -17,4 +17,5 @@ apt-get install sparkleshare[-unstable]
 ?конфигурируем
 
 — Создаём подкаталог
-— git init + .spa
+— git init + .sparkleshare
+— записываем xonfig.xml
