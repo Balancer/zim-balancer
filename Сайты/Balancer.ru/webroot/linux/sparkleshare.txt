@@ -11,5 +11,7 @@ apt-get install xvfb
 запуск xvfb; rc.local; environment
 apt-get install sparkleshare[-unstable]
 
-Достаём ключ, прописываем в github
+Достаём ключ, прописываем в github?
+?конфигурируем
+
 
