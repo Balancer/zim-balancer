@@ -18,4 +18,6 @@ apt-get install sparkleshare[-unstable]
 
 — Создаём подкаталог
 — git init + .sparkleshare
-— записываем xonfig.xml
+— записываем config.xml
+
+sparkleshare start
