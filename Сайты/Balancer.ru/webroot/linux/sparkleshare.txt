@@ -16,4 +16,5 @@ apt-get install sparkleshare[-unstable]
 Достаём ключ, прописываем в github?
 ?конфигурируем
 
-С
+— Создаём подкаталог
+ - 
