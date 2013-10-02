@@ -5,6 +5,6 @@ Creation-Date: 2013-10-02T06:39:53+04:00
 ====== services ======
 Created Среда 02 Октябрь 2013
 
-Pace.js
- — это самый простой способ (документация здесь) добавить к вашему проекту прогресс бар. Для Pace существует несколько тем, которые описываются только на CSS. От Hubspot есть еще два универсальных проекта на GitHub: Vex и Messenger — «Dialogs for the 21st century» и «Alerts for the 21st century» соответственно. Рекомендую. 
+==== Pace.js ====
+ Способ добавить к вашему проекту прогресс бар. Для Pace существует несколько тем, которые описываются только на CSS. От Hubspot есть еще два универсальных проекта на GitHub: Vex и Messenger — «Dialogs for the 21st century» и «Alerts for the 21st century» соответственно. Рекомендую. 
 http://github.hubspot.com/pace/docs/welcome/
