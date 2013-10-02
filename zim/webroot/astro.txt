@@ -5,4 +5,6 @@ Creation-Date: 2013-10-02T10:36:04+04:00
 ====== astro ======
 Created Wednesday 02 October 2013
 
-@
+@skip
+
+ftp://ftp.nofs.navy.mil/pub/outgoing/usnoa/
