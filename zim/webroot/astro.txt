@@ -9,6 +9,7 @@ Created Wednesday 02 October 2013
 
 ftp://ftp.nofs.navy.mil/pub/outgoing/usnoa/
 http://archivo.ctio.noao.edu/catalogs/
+http://sourceforge.net/projects/skychart/files/2-catalogs/Stars/UCAC3/
 
 Звёздные каталоги
 http://www.ka-dar.ru/forum/index.php?topic=1138.0
