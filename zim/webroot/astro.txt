@@ -8,6 +8,7 @@ Created Wednesday 02 October 2013
 @skip
 
 ftp://ftp.nofs.navy.mil/pub/outgoing/usnoa/
+http://archivo.ctio.noao.edu/catalogs/
 
 Звёздные каталоги
 http://www.ka-dar.ru/forum/index.php?topic=1138.0
