@@ -10,3 +10,6 @@ Created Среда 02 Октябрь 2013
 {{./jscolor.png?width=300}}
 * Сайт: http://jscolor.com/
 * Демо: http://jscolor.com/try.php
+
+JavaScript ColorPicker
+http://www.dematte.at/colorPicker/
