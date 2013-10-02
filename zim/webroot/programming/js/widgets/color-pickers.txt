@@ -7,6 +7,6 @@ Created Среда 02 Октябрь 2013
 
 ====  JSColor ====
 Простой, но гибкий инструмент с широкой браузерной поддержкой, в т.ч. touch-устройств.
-
+{{./jscolor.png}}
 * Сайт: http://jscolor.com/
 * Демо: http://jscolor.com/try.php
