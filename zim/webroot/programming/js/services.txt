@@ -8,4 +8,5 @@ Created Среда 02 Октябрь 2013
 ==== Pace.js ====
  Способ добавить к проекту прогресс бар. Для Pace существует несколько тем, которые описываются только на CSS.
 
-Сайт: http://github.hubspot.com/pace/docs/welcome/
+* Сайт: http://github.hubspot.com/pace/docs/welcome/
+* Документация: http://github.hubspot.com/pace/
