@@ -5,7 +5,8 @@ Creation-Date: 2013-10-02T10:26:26+04:00
 ====== lcd ======
 Created Wednesday 02 October 2013
 
-Русифици
+===== Русифицированные =====
 
 === Текстовый экран 20×4 (690руб) ===
 http://amperka.ru/collection/LCD-LED/product/Tekstovyy-ekran-20%C3%974
+
