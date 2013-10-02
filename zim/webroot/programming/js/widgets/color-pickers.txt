@@ -5,3 +5,5 @@ Creation-Date: 2013-10-02T06:34:03+04:00
 ====== color-pickers ======
 Created Среда 02 Октябрь 2013
 
+ JSColor
+http://jscolor.com/
