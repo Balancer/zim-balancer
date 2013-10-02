@@ -12,5 +12,5 @@ Created Среда 02 Октябрь 2013
 * Демо: http://jscolor.com/try.php
 
 ==== JavaScript ColorPicker ====
-
-http://www.dematte.at/colorPicker/
+* Сайт: http://www.dematte.at/colorPicker/
+* Демо: http://www.dematte.at/colorPicker/#demo
