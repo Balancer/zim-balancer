@@ -11,3 +11,4 @@ With the new premium Form Builder module, you can now create attractive, single 
 // http://www.formtools.org/
 
 === Xataface ===
+{{./xataface.png}}
