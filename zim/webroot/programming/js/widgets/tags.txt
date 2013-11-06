@@ -9,4 +9,6 @@ Created Среда 06 Ноябрь 2013
 {{./Tag-Editors.png?width=200}}
 // http://stackoverflow.com/questions/2531255/jquery-tag-editor
 
-jQuery Plugin tagedit - Tageditor
+=== jQuery Plugin tagedit - Tageditor ===
+
+// http://tagedit.webwork-albrecht.de/
