@@ -6,5 +6,5 @@ Creation-Date: 2013-11-06T14:48:08+04:00
 Created Среда 06 Ноябрь 2013
 
 === Сравнение некоторых популярных jQuery плагинов для работы с тегами ===
-{{./javascript - jQuery Tag Editor? - Stack Overflow - Chromium_166.png}}
+{{./Tag-Editors.png}}
 // http://stackoverflow.com/questions/2531255/jquery-tag-editor
