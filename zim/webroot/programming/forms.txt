@@ -6,4 +6,7 @@ Creation-Date: 2013-11-06T14:44:21+04:00
 Created Среда 06 Ноябрь 2013
 
 === Form Tools ===
-{{./formtools.png}}
+With the new premium Form Builder module, you can now create attractive, single or multi-page forms entirely from within the Form Tools interface, and publish them on your website. None of this requires programming skills or any other technical knowledge.
+{{./formtools.png?width=300}}
+// http://www.formtools.org/
+
