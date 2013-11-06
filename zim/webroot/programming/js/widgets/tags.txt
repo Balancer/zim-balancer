@@ -13,3 +13,4 @@ Created Среда 06 Ноябрь 2013
 {{./tageditor.png?width=200}}
 // http://tagedit.webwork-albrecht.de/
 
+=== Widen Enterprises Fork of jQuery-Tagit ===
