@@ -2,8 +2,20 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2013-12-02T03:51:40+04:00
 
-====== qt-bitcoin-trader ======
+====== QtBitcoinTrader ======
 Created Понедельник 02 Декабрь 2013
 
+@ubuntu @btc @gui
+
+Порядок установки. Ставим необходимые компоненты:
+[code=bash]
 sudo apt-get install qtmobility-dev libssl-dev qt4-qmake  libqt4-dev
+[/code]
+
+Заходим в подкаталог src, конфигурируем, компилируем, устанавливаем:
+
+[code=bash]
 qmake-qt4 QtBitcoinTrader_Mobility.pro
+make
+sudo make install
+[/code]
