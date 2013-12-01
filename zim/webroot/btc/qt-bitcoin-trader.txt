@@ -5,4 +5,5 @@ Creation-Date: 2013-12-02T03:51:40+04:00
 ====== qt-bitcoin-trader ======
 Created Понедельник 02 Декабрь 2013
 
-sudo apt-get install qtmobility-dev libssl-dev qt5-qmake
+sudo apt-get install qtmobility-dev libssl-dev qt4-qmake
+qmake-qt4 QtBitcoinTrader_Mobility.pro
