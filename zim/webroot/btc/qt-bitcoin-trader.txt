@@ -23,4 +23,6 @@ sudo make install
 
 [/code]
 
-Устранение возможных ошиб
+Устранение возможных ошибок:
+* https://github.com/JulyIGHOR/QtBitcoinTrader/issues/69
+* https://forum.btcsec.com/index.php?/topic/1496-qt-bitcoin-trader-klient-dlia-bezopasnykh-torgov-na-izvestnykh-b/page-8
