@@ -7,7 +7,8 @@ Created Понедельник 02 Декабрь 2013
 
 @ubuntu @btc @gui
 
-Порядок установки. Ставим необходимые компоненты:
+=== Порядок установки ===
+Ставим необходимые компоненты:
 [code=bash]
 ''sudo apt-get install qtmobility-dev libssl-dev qt4-qmake  libqt4-dev''
 [/code]
@@ -23,6 +24,8 @@ sudo make install
 
 [/code]
 
-Устранение возможных ошибок:
+=== Устранение возможных ошибок: ===
 * https://github.com/JulyIGHOR/QtBitcoinTrader/issues/69
 * https://forum.btcsec.com/index.php?/topic/1496-qt-bitcoin-trader-klient-dlia-bezopasnykh-torgov-na-izvestnykh-b/page-8
+* https://github.com/JulyIGHOR/QtBitcoinTrader/issues/3
+
