@@ -9,13 +9,16 @@ Created Понедельник 02 Декабрь 2013
 
 Порядок установки. Ставим необходимые компоненты:
 [code=bash]
-sudo apt-get install qtmobility-dev libssl-dev qt4-qmake  libqt4-dev
+''sudo apt-get install qtmobility-dev libssl-dev qt4-qmake  libqt4-dev''
 [/code]
 
 Заходим в подкаталог src, конфигурируем, компилируем, устанавливаем:
 
 [code=bash]
+'''
 qmake-qt4 QtBitcoinTrader_Mobility.pro
 make
 sudo make install
+'''
+
 [/code]
