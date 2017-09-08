@@ -4,4 +4,4 @@ Created пятница 08 Сентябрь 2017
 @ESP8266 @NodeMCU @Telegram @Lua 
 
 * [[https://mysku.ru/blog/china-stores/48213.html|Telegram бот на плате разработчика Wemos D1 MINI]] (25.12.2016)
-* A simple Lua Library for the Telegram Bot API (GitHub, 11.12.2016)
+* [[https://github.com/cosmonawt/lua-telegram-bot|A simple Lua Library for the Telegram Bot API]] (GitHub, 11.12.2016)
