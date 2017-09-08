@@ -2,4 +2,4 @@
 Created пятница 08 Сентябрь 2017
 
 {{.\esp-01-pins.jpg?width=400}}
-{{.\ftdy to esp01 diagram.jpg}}
+{{.\ftdy to esp01 diagram.jpg?width=400}}
