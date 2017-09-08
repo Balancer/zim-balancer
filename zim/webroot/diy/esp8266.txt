@@ -1,6 +1,6 @@
 ====== ESP8266 ======
 Created пятница 08 Сентябрь 2017
 
-Telegram бот на плате разработчика Wemos D1 MINI
+* Telegram бот на плате разработчика Wemos D1 MINI
 
 https://mysku.ru/blog/china-stores/48213.html
