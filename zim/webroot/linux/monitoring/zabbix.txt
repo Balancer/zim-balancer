@@ -1,4 +1,4 @@
 ====== Zabbix ======
 Created пятница 08 Сентябрь 2017
 
-* Обучаем Zabbix работать с MQTT протоколом (03.03.2017)
+* [[https://it4it.club/topic/62-obuchaem-zabbix-rabotat-s-mqtt-protokolom/|Обучаем Zabbix работать с MQTT протоколом]] (03.03.2017)
